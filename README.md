@@ -12,7 +12,7 @@ BabyCam is a network scanning tool designed to detect and identify IP cameras on
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/BabyCam.git
+   git clone https://github.com/arjo6/BabyCam.git
    cd BabyCam
    ```
 
